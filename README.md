@@ -24,8 +24,8 @@ Estou sempre buscando aprender as melhores práticas e ferramentas do mercado.
 | Área | Tecnologias (Exemplos que você pode ajustar) |
 | :--- | :--- |
 | **Linguagens Base** | `HTML5` · `CSS3` · `JavaScript (ES6+)` |
-| **Frontend** | `React` ou `Vue.js` · `Bootstrap` · `SASS` |
-| **Backend** | `Node.js` ou `Python` · `Express` |
+| **Frontend** | `Bootstrap` · `SASS` |
+| **Backend** | `Node.js` ou `Python` · `Flask` |
 | **Banco de Dados** | `SQL` · `MongoDB` |
 | **Ferramentas/Outros**| `Git` · `GitHub` · `VS Code` · `Metodologias Ágeis` |
 
