@@ -1,58 +1,99 @@
+<h1 align="left">👋 Olá! Eu sou o Guilherme Castro</h1>
 
-<div align="center">
-  <img src="[https://media.giphy.com/media/zhvIoqf9V71I1bO6lO/giphy.gif](https://media.giphy.com/media/zhvIoqf9V71I1bO6lO/giphy.gif)" width="150" />
-  <h1>👋 Olá! Eu sou o Guilherme Castro</h1>
-  <p>Desenvolvedor Web em constante evolução e aprendizado.</p>
+###
+
+<h3 align="center">Desenvolvedor Full-Stack</h3>
+
+###
+
+<p align="left">Formado em Desenvolvedor Web  pelo IOS (Instituto da Oportunidade Social) e atualmente participante do Programa Start-Tech da TOTVS, onde estou aprofundando meus conhecimentos em Back-End Java com Spring Boot e boas práticas de mercado.</p>
+
+###
+
+<p align="left">🎓 Certificação Instituto da Oportunidade Social : Desenvolvimento Web.<br>🎓 Certificação Curso em Vídeo : Python.<br>🔭 Estudando atualmente Back-End Java com Spring Boot</p>
+
+###
+
+<h3 align="left">Front-end</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
 </div>
 
----
+###
 
-### 🚀 Sobre Mim
+<h3 align="left">Back-end</h3>
 
-Sou um profissional entusiasmado com a tecnologia, focado em Desenvolvimento Web, e atualmente trilhando uma jornada de aprimoramento contínuo.
+###
 
-* **Formação:** Concluí minha formação em **Desenvolvimento Web** pelo **IOS - Instituto da Oportunidade Social**, onde adquiri as bases sólidas para construir aplicações web.
-* **Momento Atual:** Atualmente, estou participando ativamente do **Programa Start-Tech na TOTVS**, aprofundando meus conhecimentos e ganhando experiência prática em um ambiente corporativo.
-* **Foco:** Meu interesse está em transformar desafios em soluções práticas e eficientes, com foco em desenvolvimento front-end e/ou back-end.
-
----
-
-### 🛠️ Minhas Habilidades e Ferramentas
-
-Estou sempre buscando aprender as melhores práticas e ferramentas do mercado.
-
-| Área | Tecnologias (Exemplos que você pode ajustar) |
-| :--- | :--- |
-| **Linguagens Base** | `HTML5` · `CSS3` · `JavaScript (ES6+)` |
-| **Frontend** | `Bootstrap` · `SASS` |
-| **Backend** | `Node.js` ou `Python` · `Flask` |
-| **Banco de Dados** | `SQL` · `MongoDB` |
-| **Ferramentas/Outros**| `Git` · `GitHub` · `VS Code` · `Metodologias Ágeis` |
-
-**(⚠️ Lembre-se de substituir os exemplos acima pelas tecnologias que você *realmente* está aprendendo e utilizando!)**
-
----
-
-### 📈 Estatísticas do GitHub
-
-_Aqui você pode adicionar badges e estatísticas para mostrar seu engajamento no GitHub. Para usá-los, substitua `SEU_USERNAME` pelo seu nome de usuário._
-
-<p align="center">
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=vue&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=vue&include_all_commits=true&count_private=true)"/>
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=vue](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=vue)"/>
-</p>
-
----
-
-### 📫 Conecte-se Comigo!
-
-Estou aberto a novas conexões, projetos e oportunidades de aprendizado. Sinta-se à vontade para entrar em contato.
-
-* **<a href="LINK_DO_SEU_LINKEDIN">LinkedIn</a>** (Obrigatório para contatos profissionais!)
-* **<a href="mailto:SEU_EMAIL@exemplo.com">E-mail</a>**
-* **<a href="LINK_DE_OUTRAS_REDES">Outras Redes (Opcional)</a>**
-
-<br>
-<div align="center">
-  <p>Feito com 💜 e café.</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
 </div>
+
+###
+
+<h3 align="left">Bancos De Dados</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="40" alt="sqlite logo"  />
+</div>
+
+###
+
+<h3 align="left">Ferramentas e Tecnologias</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<h3 align="center">Entre em Contato</h3>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/GuiCastro1/GuiCastro1/output/snake.svg" alt="Snake animation" />
+
+###
